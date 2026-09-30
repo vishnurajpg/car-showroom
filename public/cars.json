@@ -1,0 +1,10 @@
+[
+  {"id":1,"name":"Swift","brand":"Maruti","fuel":"Petrol","price":7,"emoji":"🚗","desc":"Compact hatchback with great mileage. Perfect for city driving."},
+  {"id":2,"name":"Baleno","brand":"Maruti","fuel":"Petrol","price":8,"emoji":"🚙","desc":"Spacious premium hatchback with a modern interior."},
+  {"id":3,"name":"Creta","brand":"Hyundai","fuel":"Diesel","price":15,"emoji":"🚙","desc":"Popular SUV with comfortable ride and many features."},
+  {"id":4,"name":"i20","brand":"Hyundai","fuel":"Petrol","price":9,"emoji":"🚗","desc":"Stylish hatchback with a smooth engine."},
+  {"id":5,"name":"Nexon EV","brand":"Tata","fuel":"Electric","price":16,"emoji":"⚡","desc":"Electric SUV with low running cost and good range."},
+  {"id":6,"name":"Harrier","brand":"Tata","fuel":"Diesel","price":18,"emoji":"🚙","desc":"Strong and safe SUV for long family trips."},
+  {"id":7,"name":"Innova Crysta","brand":"Toyota","fuel":"Diesel","price":22,"emoji":"🚐","desc":"7 seater family car known for comfort and reliability."},
+  {"id":8,"name":"Fortuner","brand":"Toyota","fuel":"Diesel","price":40,"emoji":"🚙","desc":"Powerful premium SUV with a strong road presence."}
+]
